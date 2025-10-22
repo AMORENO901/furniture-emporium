@@ -1,0 +1,49 @@
+header {
+  display: flex;
+  flex-flow: column;
+  flex-wrap: wrap;
+}
+#logo {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+  margin-left: 700px;
+  padding-right: 50px;
+}
+h1 {
+  color: rgb(221, 86, 109);
+  border: 5ch;
+}
+h2 {
+  color: rgb(221, 86, 109);
+}
+
+.border {
+  background-color: antiquewhite;
+}
+.words {
+  color: black;
+}
+.price {
+  color: red;
+}
+body {
+  color: white;
+}
+body {
+  background-color: #0f5132;
+}
+.couch {
+  background-color: lightgreen;
+}
+
+.table {
+  background-color: lightgreen;
+}
+#chair {
+  background-color: lightgreen;
+}
+.buto {
+  background-color: red;
+  color: white;
+}
